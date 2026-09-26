@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "清辞内核v1.7",
+  "downloadUrl": "https://cdn.jsdelivr.net/linyiandqingci/updata/master/qingcineihe.sh",
+  "updateLog": "修复内核调度bug",
+  "md5": "这里填sh文件md5，可选，用来校验文件完整性"
+}
