@@ -1,21 +1,13 @@
 {
-  "versionCode": 4,
-  "versionName": "清辞内核v1.8",
+  "versionCode": 5,
+  "versionName": "清辞内核v1.9.1",
   "downloadUrl": "https://cdn.jsdelivr.net/gh/linyiandqingci/updata@master/qingcineihe.sh",
   "md5": "",
-  "updateDesc": "1.算法解密
-2.更新打击掉血显示(贫民窟同款)
-3.修随机部位无效
-4.手雷时间预测
-5.手雷范围
-6.美化配置单(美化信息)
-7.悬浮球新增(锁)
-8.雷达优化
-9.优化拿枪追踪概率
-10.更新露哪打哪
-11.绘制骨骼优化
-12.优先打准心最近部位
-13.追踪轮胎
-14.修复烟雾不打，开车不打
-15.换UI"
+  "updateDesc": "内核更新：新增无后座功能
+  优化了追踪轮胎逻辑
+  删除没用的关于页，显示模型改到首页
+  优化ui自适应让ui不超过范围
+  
+  软件更新：解决了因为限流导致的在线同步失效
+  新增了大屏端导航栏适应"
 }
